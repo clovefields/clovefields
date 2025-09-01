@@ -5,7 +5,7 @@
   </a>
 
 ## Multimedia Polymath
-Roblox VFX | Modeling | Music | Lua | Python
+Roblox VFX | Modeling | Music | Python
 
 ## Working On
 <a href="https://www.roblox.com/games/16883974868/2x-Jules-RNG"><b>Jule's RNG</b></a> - Roblox random number generator. VFX Dev.
