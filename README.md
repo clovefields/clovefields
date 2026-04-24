@@ -9,7 +9,7 @@ VFX | Modeling | Composing | Web Dev
 
 ## Working On
 <a href="https://www.roblox.com/games/15532962292/Sols-RNG"><b>Sol's RNG</b></a> - Roblox random number generator. VFX, Promotional Video's.
-<p href="https://illusioned.xyz/"><b>illusioned.xyz</b> - Story based ARG for Sol's RNG. </p>
+<p href="https://illusioned.xyz/"><b>illusioned.xyz</b></p>  - Story based ARG for Sol's RNG. 
 
 
 ## Contact
